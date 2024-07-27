@@ -6,6 +6,8 @@ This project is a comprehensive Weather Monitoring System that fetches live weat
 
 The Weather Monitoring System fetches live weather data from an external API, processes it, and displays daily summaries and alerts on the frontend. Users can view live weather updates, daily summaries, and alerts for specific weather conditions.
 
+# It will give live weather forecast. Can give alerts daily summary and past day week summary. Once the data is collected and stored in DB. It will take some time. After every 5 mins the temperature will be recorded. 
+
 ## Features
 
 - **Live Weather Data:** Fetches live weather data every 5 minutes.
