@@ -39,6 +39,8 @@ The Weather Monitoring System fetches live weather data from an external API, pr
 
 The application will be accessible at `http://localhost:3000` for the frontend and `http://localhost:8080` for the backend.
 
+### You have to enter your MongoDB link in place of "YOUR_MONGO_URL".
+
 ## Usage
 
 1. **Open the application in your browser.**
