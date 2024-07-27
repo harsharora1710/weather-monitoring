@@ -1,0 +1,39 @@
+.past-week-weather-container {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.past-week-weather-container h2 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.weather-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.weather-table th,
+.weather-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
+
+.weather-table th {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.weather-table tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.weather-table tr:hover {
+    background-color: #ddd;
+}

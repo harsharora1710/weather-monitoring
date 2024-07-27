@@ -1,0 +1,48 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+}
+
+main {
+  padding: 20px;
+}
+
+.daily-summary,
+.weather-trends,
+.alerts {
+  margin: 20px 0;
+}
+
+.daily-summary ul,
+.alerts ul {
+  list-style: none;
+  padding: 0;
+}
+
+.daily-summary li,
+.alerts li {
+  background: #f9f9f9;
+  margin: 10px 0;
+  padding: 15px;
+  border-radius: 5px;
+}
+
+.weather-trends canvas {
+  width: 100% !important;
+  max-width: 600px;
+  margin: auto;
+}
+.weather-trends {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.weather-trends h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}

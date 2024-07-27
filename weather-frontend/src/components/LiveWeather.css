@@ -1,0 +1,35 @@
+.live-weather-container {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.unit-toggle {
+    margin-bottom: 20px;
+}
+
+.unit-toggle label {
+    margin-right: 10px;
+}
+
+.weather-card {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+}
+
+.weather-card h3 {
+    margin: 0;
+    font-size: 1.2em;
+}
+
+.weather-card p {
+    margin: 5px 0;
+    font-size: 1em;
+}
